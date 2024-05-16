@@ -1,1 +1,1 @@
-# covidApp
+# Covid-19-EDA
